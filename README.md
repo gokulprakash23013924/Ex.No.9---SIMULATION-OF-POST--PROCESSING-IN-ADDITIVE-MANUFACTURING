@@ -34,14 +34,18 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![Alt text](image.png)
+![Screenshot 2023-12-16 160136](https://github.com/gokulprakash23013924/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231472/4640d858-7ee5-4f50-bc23-baac41ab3137)
+
 ## UV Curing of 3D printed part
-![Alt text](image-1.png)
+![Screenshot 2023-12-16 160210](https://github.com/gokulprakash23013924/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231472/f055fb86-4397-424e-bd46-2e6f5bb2c004)
+
 ## Heat Treatment of 3D printed part
-![Alt text](image-2.png)
+![Screenshot 2023-12-16 160407](https://github.com/gokulprakash23013924/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231472/6b508099-d1ec-4c7f-9bc6-aef27c946ed6)
+
 
 ## Output:
-![Alt text](image-3.png)
+![Screenshot 2023-12-16 160517](https://github.com/gokulprakash23013924/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231472/05d69475-84f9-48da-a9b5-10e09766a1dc)
+
 
 ### Name:
 GOKUL PRAKASH M
